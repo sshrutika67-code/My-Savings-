@@ -1,6 +1,6 @@
 {
-  "name": "Pink 100 Savings Tracker",
-  "short_name": "Pink 100",
+  "name": "My Savings Tracker",
+  "short_name": "My Savings",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
